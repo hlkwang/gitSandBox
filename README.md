@@ -1,1 +1,1 @@
-there's a typo in this readme, guesss what it is
+there's a typo in this readme, guess what it is
